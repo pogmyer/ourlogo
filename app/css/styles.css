@@ -44,6 +44,12 @@ body {
 .hero-inner {
     max-width: 760px;
 }
+.hero-inner p a {
+  color: green;
+}
+.hero-inner p a:hover {
+  color: greenyellow;
+}
 
 .hero h1 {
     font-weight: normal;
